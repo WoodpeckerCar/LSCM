@@ -14,3 +14,6 @@ Components:
 * Arduino Mega 2560
 * SeedStudio CANbus Shieldv2.0
 * 8 way relay module
+
+All modules:
+* https://github.com/WoodpeckerCar/LSCM
